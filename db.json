@@ -1,7 +1,11 @@
-[
+{
+  "posts": [
     {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
