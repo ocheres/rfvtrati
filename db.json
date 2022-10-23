@@ -1,4 +1,5 @@
 {
-  "id": 1,
-  "title": "hello"
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
 }
