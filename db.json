@@ -2,11 +2,53 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "tanks",
+      "number": 2590
     },
     {
       "id": 2,
-      "title": "hello"
+      "name": "armoured personnel vehicle",
+      "number": 5295
+    },
+    {
+      "id": 3,
+      "name": "artillery systems",
+      "number": 1673
+    },
+    {
+      "id": 4,
+      "name": "MLRS",
+      "number": 375
+    },
+    {
+      "id": 5,
+      "name": "anti-aircraft warfare systems",
+      "number": 189
+    },
+    {
+      "id": 6,
+      "name": "aircraft",
+      "number": 270
+    },
+    {
+      "id": 7,
+      "name": "helicopters",
+      "number": 245
+    },
+    {
+      "id": 8,
+      "name": "UAV",
+      "number": 1370
+    },
+    {
+      "id": 9,
+      "name": "warships",
+      "number": 16
+    },
+    {
+      "id": 10,
+      "name": "vehicles",
+      "number": 4044
     }
   ],
   "profile": {
