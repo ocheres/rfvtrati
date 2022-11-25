@@ -3,22 +3,22 @@
     {
       "id": 1,
       "name": "soldiers",
-      "number": 85000
+      "number": 86150
     },
     {
       "id": 2,
       "name": "tanks",
-      "number": 2895
+      "number": 2899
     },
     {
       "id": 3,
       "name": "armoured personnel vehicle",
-      "number": 5827
+      "number": 5844
     },
     {
       "id": 4,
       "name": "artillery systems",
-      "number": 1882
+      "number": 1895
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
     {
       "id": 9,
       "name": "UAV",
-      "number": 1537
+      "number": 1553
     },
     {
       "id": 10,
@@ -53,7 +53,7 @@
     {
       "id": 11,
       "name": "vehicles",
-      "number": 4393
+      "number": 4404
     }
   ],
   "profile": {
