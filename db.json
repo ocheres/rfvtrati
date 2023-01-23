@@ -3,57 +3,57 @@
     {
       "id": 1,
       "name": "soldiers",
-      "number": 100400
+      "number": 121480
     },
     {
       "id": 2,
       "name": "tanks",
-      "number": 3003
+      "number": 3150
     },
     {
       "id": 3,
       "name": "armoured personnel vehicle",
-      "number": 5981
+      "number": 6276
     },
     {
       "id": 4,
       "name": "artillery systems",
-      "number": 1978
+      "number": 2146
     },
     {
       "id": 5,
       "name": "MLRS",
-      "number": 413
+      "number": 447
     },
     {
       "id": 6,
       "name": "anti-aircraft warfare systems",
-      "number": 212
+      "number": 220
     },
     {
       "id": 7,
       "name": "aircraft",
-      "number": 283
+      "number": 287
     },
     {
       "id": 8,
       "name": "helicopters",
-      "number": 267
+      "number": 277
     },
     {
       "id": 9,
       "name": "UAV",
-      "number": 1693
+      "number": 1894
     },
     {
       "id": 10,
       "name": "warships",
-      "number": 16
+      "number": 18
     },
     {
       "id": 11,
       "name": "vehicles",
-      "number": 4615
+      "number": 4936
     }
   ],
   "profile": {
